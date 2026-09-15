@@ -1,3 +1,4 @@
 # pract
-This is first time for me !
+This is my fist Git Repository !
+<br>
 Author - Syed Murtaza
